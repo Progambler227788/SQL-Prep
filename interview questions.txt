@@ -1,0 +1,41 @@
+Materialized View
+Is it possible for table and view/materialized view having same row ids?
+what is ddl?
+is ddl possible in view?
+is ddl possible in materialized view?
+is dml possible in view/materialized view?
+is it possible to drop a table and acccessing its view/materialized view?
+sys state?
+what are duals?
+aggregate functions -> 5 functions
+total salary in a table, sum(salary) , select sum(salary) from tableName;
+difference b/w where and having? 
+differenc b/w delete and truncate? (truncate can't rollback)
+truncate is faster than delete.
+second maximum salary from a table
+selecting maximum salary from a group
+DDL commands -> Create, Alter, Drop , Truncate
+DML commands -> Insert, Update, Delete
+Primary -> Unique identifier in a table.
+Primary key can not have null values and not even duplicate.
+Foriegn key, it can take duplicate values, it refers to parent table.
+Unique key does not take null value.
+Index is a database structure.
+What is global temporary table?
+What is a synonym? (alias)
+What is a view? 
+Can we joins in a view?
+Can we use group by in a view?
+What is a subquery and joins and differences?
+Types of Joins
+* mean in sql
+data types in sql
+is sql case sensitive?
+how to delete duplicate ids in a table?
+
+
+
+
+
+
+
